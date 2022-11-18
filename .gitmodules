@@ -1,3 +1,6 @@
 [submodule "blogs/Web3.0-club"]
 	path = blogs/Web3.0-club
 	url = https://github.com/jameslee-7/Web3.0-club
+[submodule "blogs/abc/Bitcoin-Whitepaper-CN"]
+	path = blogs/abc/Bitcoin-Whitepaper-CN
+	url = https://github.com/jameslee-7/Bitcoin-Whitepaper-CN
