@@ -7,6 +7,9 @@
 水龙头 用于测试区块链操作，可转测试币到钱包
 https://faucets.chain.link/
 
+官网找的区块链对应视频资料
+https://pan.baidu.com/share/init?surl=IwvJj1R9DTyGo46tKuEThg
+ljgb
 
 常见数字货币 价格 美元计价
 https://data.chain.link/
@@ -47,4 +50,10 @@ https://view.inews.qq.com/a/20220727A086RJ00
 https://www.bilibili.com/video/BV1Ca411n7ta/?spm_id_from=333.337.search-card.all.click&vd_source=eb11a9f08bc720388f51f156866b44b5
 
 https://github.com/smartcontractkit/full-blockchain-solidity-course-js/blob/main/chronological-updates.md
+
+
+短信国外接受服务
+https://sms-activate.org/
+
+
 
